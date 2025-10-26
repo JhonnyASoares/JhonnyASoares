@@ -14,33 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
 
-  <h2>📊 GitHub Stats</h2>
 
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+<h2 align="center">📊 GitHub Stats </h2>
 
-    <!-- Estatísticas gerais -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" 
-      alt="GitHub Stats" 
-      height="150"
-    />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=SeuUsuario&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="150"/>
+</p>
 
-    <!-- Linguagens mais usadas -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight" 
-      alt="Top Languages" 
-      height="150"
-    />
 
-    <!-- Streak -->
-    <img 
-      src="https://streak-stats.demolab.com?user=SeuUsuario&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak" 
-      height="150"
-    />
-
-  </div>
-
-</div>
