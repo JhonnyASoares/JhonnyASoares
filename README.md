@@ -31,9 +31,9 @@ Alguns marcos da minha trajetória:
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonnyASoares&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyASoares&layout=compact&theme=dark" alt="Top Languages" height="150" />
-  <img src="https://streak-stats.demolab.com?user=JhonnyASoares&theme=dark&hide_border=true" alt="GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonnyASoares&show_icons=true&theme=aura" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyASoares&layout=compact&theme=aura" alt="Top Languages" height="150" />
+  <img src="https://streak-stats.demolab.com?user=JhonnyASoares&theme=aura&hide_border=true" alt="GitHub Streak" height="150" />
 </p>
 
 ---
