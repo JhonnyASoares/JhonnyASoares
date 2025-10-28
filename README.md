@@ -23,7 +23,7 @@ Alguns marcos da minha trajetória:
 
 ### 🧰 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,ts,angular,ionic,php,laravel,mysql,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,ts,angular,ionic,php,laravel,mysql,aws,git,github,vscode,linux,godot" />
 </p>
 
 ---
