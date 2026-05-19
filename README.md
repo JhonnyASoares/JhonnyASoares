@@ -3,7 +3,7 @@
 <p align="center">
   💻 Desenvolvedor Fullstack<br>
   🚀 Experiência proficional com <strong>Laravel, Angular e Ionic</strong><br>
-  🤖 Atualmente fazendo um jogo na <strong>Godot Engine</strong>
+  🤖 Atualmente fazendo um jogo na <strong>Godot Engine</strong><br>
   🎯 Objetivo de vida: morar no <strong>Japão 🇯🇵</strong>, ter uma bela casa e uma família feliz.
 </p>
 
